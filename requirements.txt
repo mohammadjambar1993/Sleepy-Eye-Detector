@@ -1,0 +1,9 @@
+# Core
+opencv-python>=4.8
+mediapipe>=0.10.14
+numpy>=1.23
+
+# Alarm audio backends (fallback)
+simpleaudio>=1.0
+sounddevice>=0.4
+
