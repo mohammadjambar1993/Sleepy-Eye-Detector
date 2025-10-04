@@ -80,5 +80,10 @@ MIT — see [LICENSE](LICENSE).
 - [MediaPipe FaceMesh](https://developers.google.com/mediapipe)
 - [OpenCV](https://opencv.org/)
 
+## Author  
+```
+Mohamamd Jambar
+```
+
 
 
